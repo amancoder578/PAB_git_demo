@@ -1,0 +1,5 @@
+//.gitignore is the folder for secrets file and folders
+//if we write the name of any file and folder then that file not
+//be seen by anyone except me
+
+secrets.js
